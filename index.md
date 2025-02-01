@@ -16,7 +16,7 @@ Throughout my journey of certification completion and acquisition, I am document
 
 Please see links below, categorised by certification:
  
-[Google Cybersecurity Professional Certificate](./another-page.html).
+[Google Cybersecurity Professional Certificate](./another-page.html)
 
 ## Header 2
 
