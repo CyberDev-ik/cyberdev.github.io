@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Throughout my journey of certification completion and acquisition, I am documenting key achievements in practical exercises that I have worked through.
 
 Please see links below, categorised by certification:
-
+ 
 [Google Cybersecurity Professional Certificate](./another-page.html).
 
 ## Header 2
