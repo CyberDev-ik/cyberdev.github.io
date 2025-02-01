@@ -10,9 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Certification Material
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Throughout my journey of certification completion and acquisition, I am documenting key achievements and practical exercises that I have worked through.
+
+Please see links below, categorised by certification:
+[Google Cybersecurity Professional Certificate](./another-page.html).
 
 ## Header 2
 
